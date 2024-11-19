@@ -78,7 +78,7 @@
     "rewire": "~2.1.0",
     "sax": "^1.1.1",
     "semver": "~4.0.3",
-    "shelljs": "~0.3.0",
+    "shelljs": "~0.8.5",
     "sorted-object": "^1.0.0",
     "stringmap": "^0.2.2",
     "strip-json-comments": "^2.0.1"
